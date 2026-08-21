@@ -1,4 +1,4 @@
-# EA1 - Manipulación de Vectores en Java
+ # EA1 - Manipulación de Vectores en Java
 
 ## Objetivo
 
@@ -25,20 +25,38 @@ Desarrollar un programa en Java para practicar la creación y manipulación de v
 
 El programa fue probado correctamente en consola.
 
-Vector utilizado:
+### Vector utilizado
 
+```text
 75 35 50 100 40 60 25 80 90 15 55 70 30 45 85
+```
 
-Resultados:
+### Resultados
 
 - Mayor: 100
 - Menor: 15
 - Suma: 855
-- Promedio: 57
+- Promedio: 57.0
 - Cantidad de números por encima del promedio: 7
+
+### Números por encima del promedio
+
+```text
+75 100 60 80 90 70 85
+```
+
+### Múltiplos de 5 encontrados
+
+```text
+75 35 50 100 40 60 25 80 90 15 55 70 30 45 85
+```
 
 ## Video
 
 Enlace al video de sustentación:
 
 PENDIENTE
+
+## Estado
+
+Actividad finalizada.
